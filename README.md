@@ -4,15 +4,15 @@ An interactive Hospital Analytics Dashboard developed in Microsoft Excel to moni
 
 Features:
 
-Total Patients KPI
-Revenue Analysis
-Average Billing Metrics
-Medical Condition Analysis
-Blood Group Distribution
-Gender & Age Analysis
-Admission Type Insights
-Hospital & Doctor Rankings
-Interactive Filters (Slicers)
+Total Patients KPI,
+Revenue Analysis,
+Average Billing Metrics,
+Medical Condition Analysis,
+Blood Group Distribution,
+Gender & Age Analysis,
+Admission Type Insights,
+Hospital & Doctor Rankings,
+Interactive Filters (Slicers).
 
 Tools: Excel, Pivot Tables, Pivot Charts, Slicers, Data Visualization
 
